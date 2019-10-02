@@ -1,0 +1,3 @@
+if (self.CavalryLogger) { CavalryLogger.start_js(["5CdFY"]); }
+
+__d("ReactComposerPublicEventDisclaimer.react",["cx","fbt","FDSDivider.react","React","cxMargin"],(function(a,b,c,d,e,f,g,h){function a(a){return b("React").createElement("div",null,b("React").createElement(b("FDSDivider.react"),{margin:"_4jnw"}),b("React").createElement("div",{className:"_2ph- _8kd9"},h._("This is a public event, so your post will be visible to anyone on or off Facebook.")))}e.exports=a}),null);
